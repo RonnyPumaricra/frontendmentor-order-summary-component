@@ -21,7 +21,7 @@ body {
   background-color: var(--pale-blue);
   background-image: url("/images/pattern-background-mobile.svg");
   background-size: contain;
-  background-repeat: no-repeat;
+  background-repeat: repeat no-repeat;
   height: 100vh;
   display: flex;
 
