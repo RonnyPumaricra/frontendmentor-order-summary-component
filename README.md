@@ -25,7 +25,7 @@ This is my solution to the [Order summary card challenge](https://www.frontendme
 ### Links
 
 - Solution URL: [GitHub Repository](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Watch it live](https://ronnypumaricra.github.io/order-summary-component/)
 
 ## My process
 
